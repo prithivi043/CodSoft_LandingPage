@@ -22,7 +22,7 @@ _(Add a screenshot or a link to the deployed project)_
 ## 🚀 Getting Started
 ### 1️⃣ Clone the repository:
 ```sh
-git clone https://github.com/yourusername/tech-startup-landing.git
+git clone https://github.com/prithivi043/CodSoft_LandingPage.git
 ```
 ### 2️⃣ Navigate to the project directory:
 ```sh
@@ -38,7 +38,7 @@ Simply open `index.html` in your preferred browser.
 
 ## 📬 Contact
 For any inquiries or suggestions, feel free to reach out:
-- **Email:** your.email@example.com
-- **GitHub:** [YourUsername](https://github.com/yourusername)
+- **Email:** prithivigithub043@gmail.com
+- **GitHub:** [prithivi043](https://github.com/yourusername)
 
 📌 _Don't forget to ⭐ star the repo if you find it useful!_
